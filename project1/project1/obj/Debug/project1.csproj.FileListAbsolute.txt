@@ -1,0 +1,40 @@
+c:\users\saisatya\documents\visual studio 2015\Projects\project1\project1\bin\roslyn\csc.exe
+c:\users\saisatya\documents\visual studio 2015\Projects\project1\project1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\saisatya\documents\visual studio 2015\Projects\project1\project1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\saisatya\documents\visual studio 2015\Projects\project1\project1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\saisatya\documents\visual studio 2015\Projects\project1\project1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\saisatya\documents\visual studio 2015\Projects\project1\project1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\saisatya\documents\visual studio 2015\Projects\project1\project1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\saisatya\documents\visual studio 2015\Projects\project1\project1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\saisatya\documents\visual studio 2015\Projects\project1\project1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\saisatya\documents\visual studio 2015\Projects\project1\project1\bin\roslyn\vbc.exe
+c:\users\saisatya\documents\visual studio 2015\Projects\project1\project1\bin\roslyn\VBCSCompiler.exe
+c:\users\saisatya\documents\visual studio 2015\Projects\project1\project1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\saisatya\documents\visual studio 2015\Projects\project1\project1\bin\project1.dll.config
+c:\users\saisatya\documents\visual studio 2015\Projects\project1\project1\bin\project1.dll
+c:\users\saisatya\documents\visual studio 2015\Projects\project1\project1\bin\project1.pdb
+c:\users\saisatya\documents\visual studio 2015\Projects\project1\project1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\saisatya\documents\visual studio 2015\Projects\project1\project1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\saisatya\documents\visual studio 2015\Projects\project1\project1\obj\Debug\project1.csprojResolveAssemblyReference.cache
+c:\users\saisatya\documents\visual studio 2015\Projects\project1\project1\obj\Debug\project1.dll
+c:\users\saisatya\documents\visual studio 2015\Projects\project1\project1\obj\Debug\project1.pdb
+C:\Users\tuf10109\Downloads\project1\project1\bin\roslyn\csc.exe
+C:\Users\tuf10109\Downloads\project1\project1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tuf10109\Downloads\project1\project1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tuf10109\Downloads\project1\project1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tuf10109\Downloads\project1\project1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tuf10109\Downloads\project1\project1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tuf10109\Downloads\project1\project1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tuf10109\Downloads\project1\project1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tuf10109\Downloads\project1\project1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tuf10109\Downloads\project1\project1\bin\roslyn\vbc.exe
+C:\Users\tuf10109\Downloads\project1\project1\bin\roslyn\VBCSCompiler.exe
+C:\Users\tuf10109\Downloads\project1\project1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tuf10109\Downloads\project1\project1\bin\project1.dll.config
+C:\Users\tuf10109\Downloads\project1\project1\bin\project1.dll
+C:\Users\tuf10109\Downloads\project1\project1\bin\project1.pdb
+C:\Users\tuf10109\Downloads\project1\project1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tuf10109\Downloads\project1\project1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tuf10109\Downloads\project1\project1\obj\Debug\project1.csprojResolveAssemblyReference.cache
+C:\Users\tuf10109\Downloads\project1\project1\obj\Debug\project1.dll
+C:\Users\tuf10109\Downloads\project1\project1\obj\Debug\project1.pdb
